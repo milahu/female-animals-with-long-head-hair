@@ -85,9 +85,13 @@ the male with short head hair.
 
 ## keywords
 
+- satire
 - sarcasm
+- misanthropy
+- misogyny
 - human stupidity
 - humans are stupid
 - idiocracy
 - misanthropy
 - chatgpt images
+- hate pacifism
