@@ -92,6 +92,5 @@ the male with short head hair.
 - human stupidity
 - humans are stupid
 - idiocracy
-- misanthropy
 - chatgpt images
 - hate pacifism
