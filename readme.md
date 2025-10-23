@@ -72,12 +72,13 @@ without having to get close and look between their legs
 
 <blockquote>
 
-generate an image of two animals (female on the left side and male on the right side),
+generate an image of two ANIMALS
+(female on the left and male on the right),
 with realistic style,
 in a natural setting,
 with an image aspect ratio of 16:9,
-the female with long head hair (like a human female with long head hair),
-the male with short head hair.
+the female ANIMAL with long head hair (with hair like a female human),
+the male ANIMAL with short head hair.
 
 </blockquote>
 
