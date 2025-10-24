@@ -20,6 +20,8 @@ without having to get close and look between their legs
 
 <!-- <animals> -->
 
+![](img/chatgpt/bears-koala.webp)
+
 ![](img/chatgpt/bears.webp)
 
 ![](img/chatgpt/cats.webp)
