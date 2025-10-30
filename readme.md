@@ -54,6 +54,8 @@ without having to get close and look between their legs
 
 ![](img/chatgpt/horses.avif)
 
+![](img/chatgpt/hyenas.avif)
+
 ![](img/chatgpt/lamas.avif)
 
 ![](img/chatgpt/lions.avif)
@@ -71,6 +73,8 @@ without having to get close and look between their legs
 ![](img/chatgpt/skunks.avif)
 
 ![](img/chatgpt/squirrels.avif)
+
+![](img/chatgpt/suricates.avif)
 
 ![](img/chatgpt/swans.avif)
 
